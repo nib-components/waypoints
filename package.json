@@ -1,0 +1,18 @@
+{
+  "name": "@nib-components/waypoints",
+  "version": "0.1.0",
+  "main.js": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nib-components/waypoints.git"
+  },
+  "dependencies": {
+    "component/emitter": "*",
+    "component/each": "*",
+    "component/bind": "*",
+    "component/classes": "*",
+    "anthonyshort/offset": "*",
+    "matthewmueller/throttle": "*",
+    "component/event": "*"
+  }
+}
