@@ -1,6 +1,6 @@
 {
   "name": "@nib-components/waypoints",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -14,5 +14,14 @@
     "anthonyshort-offset": "*",
     "throttleit": "*",
     "component-event": "*"
+  },
+  "browser": {
+    "emitter": "component-emitter",
+    "each": "component-each",
+    "bind": "component-bind",
+    "classes": "component-classes",
+    "offset": "anthonyshort-offset",
+    "throttle": "throttleit",
+    "event": "component-event"
   }
 }
